@@ -8,13 +8,13 @@ Table of Contents
 ->Topics Covered                                                        
 ->Usage                                           
 
-Introduction
+Introduction                                                    
 Data Structures and Algorithms are foundational concepts in computer science, essential for solving complex problems efficiently. This repository aims to serve as a comprehensive guide for learners at all levels, whether you're a beginner looking to understand basic concepts or an experienced developer seeking to deepen your knowledge and skills.
 
-Getting Started
+Getting Started                                                  
 To get started with this repository, make sure you have Java installed on your system. You can download and install Java from the official Java website.
 
-Topics Covered
+Topics Covered                                                                           
 This repository covers a wide range of topics in Data Structures and Algorithms, including but not limited to:
 
 Basic Data Structures: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, etc.
